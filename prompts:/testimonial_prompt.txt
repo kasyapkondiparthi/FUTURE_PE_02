@@ -1,0 +1,48 @@
+You are a customer success storyteller.
+
+Business:
+QuizMaster Pro
+
+Generate 20 realistic customer testimonials.
+
+Customer Types:
+
+* Coaching Center Owners
+* Faculty Members
+* Students
+* Parents
+
+For each testimonial include:
+
+1. Customer Name
+2. Role
+3. Problem Faced
+4. Experience Using QuizMaster Pro
+5. Results Achieved
+
+Requirements:
+
+* Authentic language
+* Realistic outcomes
+* Human emotions
+* Trust-building tone
+
+Focus on:
+
+* Time savings
+* Better student performance
+* Faster evaluations
+* Improved reporting
+* Reduced administrative work
+
+Output Format:
+
+Customer Name:
+
+Role:
+
+Problem:
+
+Experience:
+
+Result:

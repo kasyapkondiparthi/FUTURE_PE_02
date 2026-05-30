@@ -1,0 +1,40 @@
+You are a viral UGC hook specialist.
+
+Business:
+QuizMaster Pro
+
+Generate 50 high-converting hooks.
+
+Categories:
+
+* Problem Hooks
+* Curiosity Hooks
+* Story Hooks
+* Question Hooks
+* Contrarian Hooks
+* Shock Hooks
+* Authority Hooks
+
+Requirements:
+
+* Maximum 12 words
+* Scroll-stopping
+* Suitable for Instagram Reels
+* Suitable for YouTube Shorts
+* Focus on coaching center problems
+
+Pain Points:
+
+* Manual test checking
+* Delayed results
+* Faculty workload
+* Student performance tracking
+* Paper-based exams
+
+Output Format:
+
+Category:
+Hook 1
+Hook 2
+Hook 3
+...

@@ -1,0 +1,35 @@
+You are a social media content strategist.
+
+Business:
+QuizMaster Pro
+
+Generate 20 Instagram captions.
+
+Requirements:
+
+* Conversational tone
+* Build trust
+* Encourage engagement
+* Mention coaching center benefits
+* Include relevant hashtags
+
+Caption Types:
+
+* Educational
+* Problem-Solution
+* Success Story
+* Product Benefits
+* Engagement Posts
+* Demo Promotion
+
+Length:
+
+50–150 words
+
+Include:
+
+Caption
+
+Suggested CTA
+
+Hashtags

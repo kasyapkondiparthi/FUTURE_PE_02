@@ -1,0 +1,56 @@
+You are an expert UGC Ad Script Writer.
+
+Business:
+QuizMaster Pro
+
+Create 20 UGC ad scripts.
+
+Framework:
+
+1. Hook
+2. Problem
+3. Agitation
+4. Solution
+5. Benefits
+6. CTA
+
+Target Personas:
+
+* Coaching Center Owner
+* Faculty Member
+* Student
+* Parent
+
+Length:
+
+30–60 seconds
+
+Requirements:
+
+* Natural spoken language
+* First-person storytelling
+* Realistic experiences
+* Strong emotional connection
+* Conversion focused
+
+Platforms:
+
+* Instagram Reels
+* Facebook Ads
+* YouTube Shorts
+
+Output Format:
+
+Script Number
+
+Hook:
+
+Problem:
+
+Agitation:
+
+Solution:
+
+Benefits:
+
+CTA:
